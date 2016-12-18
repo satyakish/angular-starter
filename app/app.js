@@ -19,4 +19,5 @@ mostPopularListingsApp.config(function($routeProvider, $locationProvider, $httpP
 	// 		enabled: true,
 	//      requireBase: false
 	// });
+	//new changes
 });
